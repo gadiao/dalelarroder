@@ -35,7 +35,7 @@ export default function Hero(): ReactElement {
                 Gil Adiao
               </h1>
               <h2 className="text-3xl font-medium opacity-80 sm:text-6xl md:text-6xl xl:text-7xl">
-                I develop interesting ideas into reality.
+                I develop interesting practical ideas into reality.
               </h2>
               <Link
                 href="/about"
